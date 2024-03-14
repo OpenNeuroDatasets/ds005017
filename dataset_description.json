@@ -1,8 +1,16 @@
 {
-
-    "Name":"POP",
-    "BIDSVersion":"1.6.0",
-    "Authors":["name","name"]
-
+    "Name": "POP",
+    "BIDSVersion": "1.6.0",
+    "Authors": [
+        "Joyce Da Silva",
+        "Andrew Furman",
+        "Michael Keaser",
+        "Ashrita Kumar",
+        "Sarah Margerison",
+        "Khashayar Rahsepar",
+        "David Seminowicz",
+        "Darrah Speis",
+        "Brent Stewart"
+    ],
+    "License": "CC0"
 }
-
