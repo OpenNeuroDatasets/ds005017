@@ -2,15 +2,15 @@
     "Name": "POP",
     "BIDSVersion": "1.6.0",
     "Authors": [
+        "David Seminowicz",
         "Joyce Da Silva",
         "Andrew Furman",
         "Michael Keaser",
         "Ashrita Kumar",
         "Sarah Margerison",
-        "Khashayar Rahsepar",
-        "David Seminowicz",
         "Darrah Speis",
-        "Brent Stewart"
+        "Brent Stewart",
+        "Khashayar Rahsepar"
     ],
     "License": "CC0",
     "DatasetDOI": "doi:10.18112/openneuro.ds005017.v1.0.0",
