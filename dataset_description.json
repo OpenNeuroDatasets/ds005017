@@ -13,5 +13,6 @@
         "Brent Stewart"
     ],
     "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005017.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005017.v1.0.0",
+    "HowToAcknowledge": "Stewart BW, Keaser ML, Lee H, Margerison SM, Cormie MA, Moayedi M, Lindquist MA, Chen S, Mathur BN, Seminowicz DA. Pathological claustrum activity drives aberrant cognitive network processing in human chronic pain. Curr Biol. 2024 May 6;34(9):1953-1966.e6. doi: 10.1016/j.cub.2024.03.021. Epub 2024 Apr 12. PMID: 38614082."
 }
